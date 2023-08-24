@@ -1,0 +1,12 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+- Depende de si el sistema operativo posee el compilador o interprete o máquina irtual para ejecutar el lenguaje de proramación.
+
+¿Qué tipo de máquina virtual soporta tualBox?. 
+- Pues serían máquinas virtual para software hypervisor de tipo 2
+
+¿Qué función cumple el hypervisor en la virtización?
+- Asigna los recursos que se le van asignar a la máquina virtual,como cantidd de memoria, espacio en disco y además, brnda esa capa de abstracción que le permite a la VM ejecutare independientemente del Sistema Anfitrió
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+- No, porque cada máquina virtual funciona de manera independiente.
+
